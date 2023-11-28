@@ -8,9 +8,7 @@
 - Convierte números escritos en letras (en español) a su representación numérica.
 - No utiliza librerías ni consume API's.
 
-## Uso
-
-### Ejemplo de Operación Matemática
+## Ejemplos de uso
 
 ```python
 # Importa la clase MathHelper
