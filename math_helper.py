@@ -178,8 +178,3 @@ class MathHelper:
             return round(eval(operation), 2)
         except:
             raise ValueError("Error. No fue posible resolver la operación.")
-
-
-math_helper = MathHelper()
-operacion = math_helper.solve_operation("raiz cubica de veinte mil doscientos mas cinco multiplicado por diez mil menos un millon")
-print(operacion)
