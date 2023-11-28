@@ -1,6 +1,6 @@
 # MathHelper
 
-**MathHelper** es una clase en Python que te permite realizar operaciones matemáticas escritas en letras o números y también convertir números escritos en letras a su equivalente en formato de dígitos.
+**MathHelper** es un módulo en Python que te permite realizar operaciones matemáticas escritas en letras o números y también convertir números escritos en letras a su equivalente en formato de dígitos.
 
 ## Características
 
