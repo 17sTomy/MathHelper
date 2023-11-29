@@ -18,11 +18,11 @@ from math_helper import MathHelper
 calculadora = MathHelper()
 
 # Ejemplo de operación
-operacion = "raiz cubica de veinte mil doscientos mas cinco multiplicado por diez mil menos un millon" # 20200**(1/3)+5*10000-1000000
+operacion = "¿Cuanto es la raiz cubica de veinte mil doscientos mas cinco multiplicado por diez mil menos un millon?" # 20200**(1/3)+5*10000-1000000
 resultado = calculadora.solve_operation(operacion)
 print("Resultado:", resultado) # -949972.77
 
 # Ejemplo de conversión de número escrito en letras a dígitos
 numero_escrito = "novecientos millones cuatrocientos veinte mil dos"
 numero = calculadora.text2num(numero_escrito)
-print(f"{numero_escrito.capitalize()} en dígitos: {numero}") # 900420002
+print(f"{numero_escrito} en dígitos: {numero}") # 900420002
